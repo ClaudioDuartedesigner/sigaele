@@ -1,0 +1,24 @@
+.img-mini{
+	width: 50px;
+
+}
+
+.img-box-category{
+	margin-bottom: 5px;
+	width: 100%;
+    border-radius: 10px;
+   box-shadow: 10px 10px 10px gray;
+	
+	
+}
+
+.img-box-footer{
+	margin-bottom: 5px;
+	width: 100%;
+	border-radius: 15px;
+}
+
+.img-social{
+	margin: 10px;
+	width: 50px;
+}

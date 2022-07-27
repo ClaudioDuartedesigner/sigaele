@@ -1,0 +1,102 @@
+@import "buttons.css";
+@import "forms.css";
+@import "text.css";
+@import "imagens.css";
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: arial;
+}
+
+header, footer{
+	background-color: #006B3E;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+
+header, footer a{
+	text-decoration: none;	
+	color: white;
+}
+
+header a{
+	text-decoration: none;	
+	color: white;
+}
+
+.container-main{
+	display: flex;
+	justify-content: center;
+	flex-flow: wrap;
+	padding: 20px;
+}
+
+
+.container-main-2{
+	background-color: #F0F8F1;
+	display: flex;
+	justify-content: center;
+	flex-flow: wrap;
+	padding: 20px;
+}
+
+.box-category{
+	width: 300px;
+	margin: 20px;
+	text-align: center;
+}
+
+.box-category-footer{
+	width: 200px;
+	margin: 20px;
+	text-align: center;
+}
+
+.box-category-book{
+	width: 200px;
+	margin: 20px;
+	text-align: center;
+}
+
+
+.box-category-text-book{
+	width: 600px;
+	margin: 20px;
+	text-align: justify;
+}
+
+.box-category-text-book h3{
+	margin-bottom: 10px;	
+}
+
+.box-category-text-book h2{
+	margin-bottom: 10px;	
+}
+
+.box-category-text-book p{
+	text-indent: 1.6em;
+	margin-bottom: 10px;
+	line-height: 1.4em;	
+}
+
+.box-message{
+	margin: 20px;
+}
+
+.box-message h2{
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.box-message p{
+	text-align: justify;
+	text-indent: 1.8em;
+	margin-bottom: 10px;
+	line-height: 1.6em;	
+    font-size: 1.1em;
+}
+

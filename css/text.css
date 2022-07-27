@@ -1,0 +1,60 @@
+.box h4 {
+	margin-bottom: 5px;
+	font-size: 1.3em;
+}
+
+
+.box p {
+	margin-bottom: 10px;
+  
+}
+
+footer h3{
+	font-size: 1.2em;
+	margin: 10px;
+}
+
+footer p{
+font-size: 1em;
+	margin: 10px;	
+}
+
+
+
+.creditos-duart{
+	color:white;
+	font-size: 0.7em;
+	margin-top: 30px;
+}
+
+
+.text-left{
+	text-align: left;
+	margin: 10px;
+	line-height: 0.9em;
+}
+
+.box-detalhes h2{
+	color: blue;
+	padding: 10px;
+	font-size: 1.8em;
+}
+
+.box-detalhes h3{
+	padding: 10px;
+	font-size: 1em;
+}
+
+.box-detalhes h4{
+	color: red;
+	padding: 10px;
+	font-size: 1.8em;
+}
+
+
+.box-itenssub p{
+	line-height: 0.5em;
+	margin: 2px;
+	padding: 2px;
+
+}

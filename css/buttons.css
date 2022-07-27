@@ -1,0 +1,40 @@
+.bt-confirm, .bt-access, .bt-edit, .bt-delete{
+	width: 120px;
+	margin: 5px;
+	margin-bottom: 10px;
+	padding: 10px;
+	color: white;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+}
+
+.bt-confirm{
+	background-color: green;
+}
+
+.bt-confirm:hover{
+	background-color: black;
+
+}
+
+.bt-access{
+	background-color: blue;
+}
+
+.bt-edit{
+	background-color: DarkOrange;
+}
+
+.bt-delete{
+	background-color: red;
+}
+
+.bt-delete-x{
+	background-color:red;
+	color: white;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+	padding: 5px;
+}
